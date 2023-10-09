@@ -11,16 +11,16 @@
     --bg-color: #212121;
     --textContent-color: #555555;
     --font-color: #ffffff;
-    --font-heading-color: hsl(0, 12%, 5%);
-    --hover-color: hsl(160, 20%, 3%);
+    --font-heading-color: #00b682;
+    --hover-color: #00ffb6;
 }
 
 :root{
     --bg-color: #d2d2d2;
     --textContent-color: #ffffff;
-    --font-color: hsl(187, 85%, 44%);
-    --font-heading-color: hsl(1, 100%, 50%);
-    --hover-color: #b60000;
+    --font-color: #212121;
+    --font-heading-color: #00ffb6;
+    --hover-color: #00b682;
 }
 
 .container{
@@ -128,7 +128,7 @@
 }
 
 .btn > a:hover{
-    background-color: #f1fcf3;
+    background-color: #00b682;
     box-shadow: none;
 }
 
